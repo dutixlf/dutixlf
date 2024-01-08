@@ -1,4 +1,4 @@
 # Select type
 
-* [Practice](practice/practice.md)
-* [Theory](theory/theory.md)
+* [Practice](learn-road/GO/practice/readme.md)
+* [Theory](learn-road/GO/theory/readme.md)
