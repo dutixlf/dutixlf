@@ -1,4 +1,4 @@
 # Select type
 
-* [Practice](learn-road/SQL/practice/readme.md)
-* [Theory](learn-road/SQL/theory/readme.md)
+* [Practice](practice/readme.md)
+* [Theory](theory/readme.md)
