@@ -1,7 +1,7 @@
-Here is my learn road.
+# Here is my learn road.
 
 Some directories:
 
-* [[learn-road/GO/go|GO]]
-* [[learn-road/NEXT.JS/next.js|NEXT.JS]]
-* [[learn-road/SQL/sql|SQL]]
+* [GO](GO/go.md)
+* [NEXT.JS](NEXT.JS/next.js.md)
+* [SQL](SQL/sql.md)
