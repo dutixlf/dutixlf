@@ -1,16 +1,16 @@
-### Hi there 👋
+# Info about me
 
-<!--
-**dutixlf/dutixlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Name: Artem
+* 14 yo
 
-Here are some ideas to get you started:
+# Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* learn golang, because i want to be full-stack
+* learn next.js, because i want to be full-stack
+* learn sql, because i want to use database
+
+# Fast links to another markdowns
+
+ * [[leetcode|LeetCode]]
+ * [[road|Learn Road]]
+ * [[projects|My projects]]
