@@ -2,6 +2,6 @@ Here is my [LeetCode](https://leetcode.com/dutixlf/) progress.
 
 Some directories:
 
-* [[LeetCode/GO/go|GO]]
-* [[LeetCode/NEXT.JS/next.js|NEXT.JS]]
-* [[LeetCode/SQL/sql|SQL]]
+* [GO](LeetCode/GO/go.md)
+* [NEXT.JS](LeetCode/NEXT.JS/next.js.md)
+* [SQL](LeetCode/SQL/sql.md)

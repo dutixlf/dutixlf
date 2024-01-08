@@ -1,4 +1,4 @@
 # Select type
 
-* [[learn-road/GO/practice/practice|Practice]]
-* [[theory|Theory]]
+* [Practice](practice/practice.md)
+* [Theory](theory/theory.md)

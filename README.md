@@ -11,6 +11,6 @@
 
 # Fast links to another markdowns
 
- * [[leetcode|LeetCode]]
- * [[road|Learn Road]]
- * [[projects|My projects]]
+ * [LeetCode](LeetCode/leetcode)
+ * [Learn Road](learn-road/road.md)
+ * [My projects](projects/projects.md)
