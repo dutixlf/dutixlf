@@ -1,6 +1,8 @@
 # Info about me
 
 * Name: Artem
+* Middle: Zakharov
+* Surname: Evgen'evich
 * 14 yo
 
 # Goals
